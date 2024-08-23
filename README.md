@@ -2,7 +2,7 @@ Link to the website: https://z-breezy-team.github.io/index.html
 
 ---
 
-#How to submit you own code:
+# How to submit you own code:
 
 ## Clone the repository locally 
 
@@ -14,7 +14,7 @@ work on you own local repository
 
 ## Create your own branch 
 
-with the command git chechout _name of your branch_
+with the command git chechout <_name of your branch_>
 
 ---
 
